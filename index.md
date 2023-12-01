@@ -7,3 +7,5 @@
 # how cool is this
 
 ## i learn something new every day
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
